@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/Shankha3/leedcode_sm/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
