@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shankha3/leedcode_sm/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shankha3/leedcode_sm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shankha3/leedcode_sm/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shankha3/leedcode_sm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
