@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shankha3/leedcode_sm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shankha3/leedcode_sm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shankha3/leedcode_sm/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shankha3/leedcode_sm/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shankha3/leedcode_sm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shankha3/leedcode_sm/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shankha3/leedcode_sm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
