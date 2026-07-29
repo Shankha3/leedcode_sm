@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shankha3/leedcode_sm/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shankha3/leedcode_sm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shankha3/leedcode_sm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shankha3/leedcode_sm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shankha3/leedcode_sm/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shankha3/leedcode_sm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shankha3/leedcode_sm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shankha3/leedcode_sm/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shankha3/leedcode_sm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shankha3/leedcode_sm/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
