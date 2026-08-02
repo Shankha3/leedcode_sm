@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shankha3/leedcode_sm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Shankha3/leedcode_sm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shankha3/leedcode_sm/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shankha3/leedcode_sm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shankha3/leedcode_sm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Shankha3/leedcode_sm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shankha3/leedcode_sm/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shankha3/leedcode_sm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankha3/leedcode_sm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shankha3/leedcode_sm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shankha3/leedcode_sm/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -117,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shankha3/leedcode_sm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shankha3/leedcode_sm/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
