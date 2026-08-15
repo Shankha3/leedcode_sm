@@ -1,14 +1,18 @@
+using namespace std;
 class Solution {
 public:
-    int maxProfit(std::vector<int>& prices) {
-        int minPrice = INT_MAX;
-        int maxProfit = 0;
+    int maxProfit(vector<int>& prices) {
+  if(prices.empty())
+      return 0;      
 
-        for (int price : prices) {
-            minPrice = std::min(minPrice, price);        
-            maxProfit = std::max(maxProfit, price - minPrice); 
-        }
+    int minPrice=prices[0];
+    int maxProfit=0;
 
-        return maxProfit;
+    for(int i=1;i<prices.size();i++){
+        minPrice = min(minPrice, prices[i]);
+        maxProfit = max(maxProfit,prices[i]-minPrice);
+    }
+    
+    return maxProfit;
     }
 };
