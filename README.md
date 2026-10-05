@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shankha3/leedcode_sm/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Shankha3/leedcode_sm/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shankha3/leedcode_sm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shankha3/leedcode_sm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shankha3/leedcode_sm/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shankha3/leedcode_sm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shankha3/leedcode_sm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shankha3/leedcode_sm/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shankha3/leedcode_sm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
