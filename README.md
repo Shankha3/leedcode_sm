@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shankha3/leedcode_sm/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shankha3/leedcode_sm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shankha3/leedcode_sm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shankha3/leedcode_sm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shankha3/leedcode_sm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shankha3/leedcode_sm/tree/master/0032-longest-valid-parentheses) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shankha3/leedcode_sm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shankha3/leedcode_sm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shankha3/leedcode_sm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shankha3/leedcode_sm/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
