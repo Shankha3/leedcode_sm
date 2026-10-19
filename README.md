@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Shankha3/leedcode_sm/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankha3/leedcode_sm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shankha3/leedcode_sm/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shankha3/leedcode_sm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shankha3/leedcode_sm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shankha3/leedcode_sm/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shankha3/leedcode_sm/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shankha3/leedcode_sm/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shankha3/leedcode_sm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shankha3/leedcode_sm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shankha3/leedcode_sm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shankha3/leedcode_sm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shankha3/leedcode_sm/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shankha3/leedcode_sm/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shankha3/leedcode_sm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shankha3/leedcode_sm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shankha3/leedcode_sm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shankha3/leedcode_sm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Shankha3/leedcode_sm/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shankha3/leedcode_sm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
