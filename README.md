@@ -353,10 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shankha3/leedcode_sm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shankha3/leedcode_sm/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shankha3/leedcode_sm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shankha3/leedcode_sm/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shankha3/leedcode_sm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shankha3/leedcode_sm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
